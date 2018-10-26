@@ -1,0 +1,18 @@
+body{
+	height:100%;
+	width:100%;
+}
+.navbar{
+	background-color: #23415C;
+	padding: 2% 0;
+	font-size: 1.2em;
+}
+.navbar-brand{
+	min-height: 70px;
+	padding: 0 29px 30px;
+	font-size: 1.2em;
+}
+.navbar-default .navbar-nav{
+	color: red;
+}
+
